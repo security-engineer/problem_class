@@ -1,2 +1,3 @@
-﻿  김태윤.cpp
-  Project1.vcxproj -> D:\git-repos\assignment\산업체\세번째\Project1\x64\Debug\Project1.exe
+﻿  main.cpp
+D:\git-repo\problem_class\Project1\main.cpp(48,8): warning C4101: 'answer2' :참조되지 않은 지역 변수입니다.
+  Project1.vcxproj -> D:\git-repo\problem_class\Project1\x64\Debug\Project1.exe

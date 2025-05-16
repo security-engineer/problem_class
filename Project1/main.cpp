@@ -48,9 +48,9 @@ int main(void) {
 		char answer2[STRING_SIZE];
 		unsigned int t = clock();
 		test_main(answer, question);
-		printf("%s \n", question);
+		/*printf("%s \n", question);
 		printf("Answer: %s \n", answer);
-		printf("====================================== \n");
+		printf("====================================== \n");*/
 		SCORE += (clock() - t);
 
 		if (check_data(answer, question) == false) {
